@@ -1,5 +1,6 @@
 {
     "name": "multi_sprite_setup_extension",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
