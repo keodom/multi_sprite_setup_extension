@@ -14,7 +14,7 @@ namespace multiSpriteSetup {
     let list: Image[] = []
     
     /**
-     * TODO: describe your function here
+     * TODO: A multiplayer sprite setup block that needs an image for each sprite to create
      * @param n describe parameter here, eg: 5
      * @param s describe parameter here, eg: "Hello"
      * @param e describe parameter here
